@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['682180625481']
-global.ownernomer = "682180625481"
-global.premium = ['682180625481']
+global.owner = ['6282180625481']
+global.ownernomer = "6282180625481"
+global.premium = ['6282180625481']
 global.packname = 'Sticker B'
 global.author = '_Z4K STORE_'
 global.sessionName = 'krisss'
